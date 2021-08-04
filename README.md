@@ -1,3 +1,3 @@
 # kokoa-clone-2021
 
-html, css
+HTML, CSS Update
